@@ -1,7 +1,7 @@
 # currency-converter
 
-[!1](./images/screen-one.png)
-[!2](./images/screen-two.png)
+![1](./images/screen-one.png)
+![2](./images/screen-two.png)
 
 Currency converter, using pure JavaScript + free API.
 

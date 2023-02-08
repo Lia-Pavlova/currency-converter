@@ -3,8 +3,6 @@
 ![1](./images/screen-one.png)
 ![2](./images/screen-two.png)
 
-Currency converter, using pure JavaScript + free API.
-
 ## references
 
 API for currency - https://www.exchangerate-api.com/
